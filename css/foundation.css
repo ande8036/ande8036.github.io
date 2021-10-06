@@ -551,6 +551,7 @@ td {
   padding: 0; }
 
 p {
+  font-family: 'Times New Roman', Times, serif;
   margin-bottom: 1rem;
   font-size: inherit;
   line-height: 1.6;
